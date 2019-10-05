@@ -1,0 +1,10 @@
+##suffix##
+.cfg
+.xml
+.html
+.txt
+##prefix##
+SIP
+user
+phone
+cfg_

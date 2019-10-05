@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_101-b13 (Oracle Corporation)
+Class-Path: lib/AbsoluteLayout.jar lib/commons-net-1.4.1.jar lib/commo
+ ns-io-2.5.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: tftp1.TFTP
+
